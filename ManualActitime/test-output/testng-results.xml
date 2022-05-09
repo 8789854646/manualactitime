@@ -20,26 +20,26 @@
       <![CDATA[Close Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-05-08T19:28:12 IST" name="Default suite" finished-at="2022-05-08T19:29:00 IST" duration-ms="47379">
+  <suite started-at="2022-05-09T17:39:10 IST" name="Default suite" finished-at="2022-05-09T17:39:34 IST" duration-ms="23626">
     <groups>
     </groups>
-    <test started-at="2022-05-08T19:28:12 IST" name="Default test" finished-at="2022-05-08T19:29:00 IST" duration-ms="47379">
+    <test started-at="2022-05-09T17:39:10 IST" name="Default test" finished-at="2022-05-09T17:39:34 IST" duration-ms="23626">
       <class name="com.manualactitime.testscript.CustomerModule">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-08T19:28:12 IST" name="openBrowser" finished-at="2022-05-08T19:28:15 IST" duration-ms="2847" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-09T17:39:10 IST" name="openBrowser" finished-at="2022-05-09T17:39:12 IST" duration-ms="1370" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Open Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-08T19:28:15 IST" name="login" finished-at="2022-05-08T19:28:41 IST" duration-ms="25595" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-09T17:39:12 IST" name="login" finished-at="2022-05-09T17:39:20 IST" duration-ms="8409" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="testCreateCustomer()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-08T19:28:41 IST" name="testCreateCustomer" finished-at="2022-05-08T19:28:55 IST" duration-ms="14531" status="PASS">
+        <test-method signature="testCreateCustomer()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-09T17:39:20 IST" name="testCreateCustomer" finished-at="2022-05-09T17:39:27 IST" duration-ms="7173" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[CreateCustomer]]>
@@ -49,14 +49,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- testCreateCustomer -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-08T19:28:55 IST" name="logout" finished-at="2022-05-08T19:28:59 IST" duration-ms="3936" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-09T17:39:27 IST" name="logout" finished-at="2022-05-09T17:39:30 IST" duration-ms="2450" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logout]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-08T19:28:59 IST" name="closeBrowser" finished-at="2022-05-08T19:29:00 IST" duration-ms="413" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.manualactitime.testscript.CustomerModule@383bfa16]" started-at="2022-05-09T17:39:30 IST" name="closeBrowser" finished-at="2022-05-09T17:39:34 IST" duration-ms="4193" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close Browser]]>
